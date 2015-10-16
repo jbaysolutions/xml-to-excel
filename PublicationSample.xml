@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Pesticides>
+    <Header>
+        <Creation_Date>09/07/2015 13:45</Creation_Date>
+    </Header>
+    <Substances>
+        <Name>Garlic extract (++)</Name>
+        <entry_force>01/09/2008</entry_force>
+        <directive>Reg. (EC) No 839/2008</directive>
+        <Product>
+            <Product_name>FRUITS, FRESH or FROZEN; TREE NUTS</Product_name>
+            <Product_code>0100000</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Citrus fruits</Product_name>
+            <Product_code>0110000</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Grapefruits (Natsudaidais, Shaddocks/pomelos, Sweeties/oroblancos, Tangelolos, Tangelos
+                (except minneolas)/Ugli�, Other hybrids of Citrus paradisi, not elsewhere mentioned,)
+            </Product_name>
+            <Product_code>0110010</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Oranges (Bergamots, Bitter oranges/sour oranges, Blood oranges, Cara caras, Chinottos,
+                Trifoliate oranges, Other hybrids of Citrus sinensis, not elsewhere mentioned,)
+            </Product_name>
+            <Product_code>0110020</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Lemons (Buddha's hands/Buddha's fingers, Citrons,)</Product_name>
+            <Product_code>0110030</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Limes (Indian sweet limes/Palestine sweet limes, Kaffir limes, Sweet limes/mosambis, Tahiti
+                limes,)
+            </Product_name>
+            <Product_code>0110040</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+    </Substances>
+    <Substances>
+        <Name>Gibberellic acid (++)</Name>
+        <entry_force>01/09/2008</entry_force>
+        <directive>Reg. (EC) No 839/2008</directive>
+        <Product>
+            <Product_name>FRUITS, FRESH or FROZEN; TREE NUTS</Product_name>
+            <Product_code>0100000</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Citrus fruits</Product_name>
+            <Product_code>0110000</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Grapefruits (Natsudaidais, Shaddocks/pomelos, Sweeties/oroblancos, Tangelolos, Tangelos
+                (except minneolas)/Ugli�, Other hybrids of Citrus paradisi, not elsewhere mentioned,)
+            </Product_name>
+            <Product_code>0110010</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Oranges (Bergamots, Bitter oranges/sour oranges, Blood oranges, Cara caras, Chinottos,
+                Trifoliate oranges, Other hybrids of Citrus sinensis, not elsewhere mentioned,)
+            </Product_name>
+            <Product_code>0110020</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Lemons (Buddha's hands/Buddha's fingers, Citrons,)</Product_name>
+            <Product_code>0110030</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+        <Product>
+            <Product_name>Limes (Indian sweet limes/Palestine sweet limes, Kaffir limes, Sweet limes/mosambis, Tahiti
+                limes,)
+            </Product_name>
+            <Product_code>0110040</Product_code>
+            <MRL/>
+            <ApplicationDate>01/09/2008</ApplicationDate>
+        </Product>
+    </Substances>
+</Pesticides>
